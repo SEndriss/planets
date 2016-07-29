@@ -1,4 +1,4 @@
-Mars is a red planet.
+Mars is not a red planet.
 Some more stuff about Mars.
 Planets are the best.
 Stacy is the best collaborator!!!
