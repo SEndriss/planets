@@ -1,2 +1,3 @@
 Mars is a red planet.
-Some more dtuff about Mars.
+Some more stuff about Mars.
+Planets are the best.
